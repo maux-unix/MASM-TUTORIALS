@@ -1,0 +1,5 @@
+*.OBJ
+*.obj
+*.EXE
+*.exe
+BUILD/
